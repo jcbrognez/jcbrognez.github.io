@@ -69,3 +69,18 @@ main > .tagline {
 	width: 2.65rem;
 	height: 2.65rem;
 }
+
+/* Links */
+
+.tagline a {
+	text-decoration: none;
+	color: #FAFAFA;
+}
+
+.tagline a:hover {
+	color: rgb(220, 238, 235, 0.85);
+}
+
+.icons-social :hover {
+	color: rgba(220, 238, 235, 0.85);
+}
