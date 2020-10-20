@@ -1,6 +1,6 @@
 # Dev Landing Page
 
-Here's my first **Dev Landing Page** - ![Jean-Charles Brognez - portfolio v1](https://jcbrognez.github.io)
+Here's my first **Dev Landing Page** - [Jean-Charles Brognez - portfolio v1](https://jcbrognez.github.io)
 
 
 
