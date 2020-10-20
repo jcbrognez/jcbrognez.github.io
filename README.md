@@ -2,7 +2,7 @@
 
 Here's my first **Dev Landing Page** - [Jean-Charles Brognez - portfolio v1](https://jcbrognez.github.io)
 
-
+[![Dev Landing Page](./DevLandingPage.jpg)](https://jcbrognez.github.io/)
 
 ## What I did
 
